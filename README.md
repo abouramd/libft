@@ -1,10 +1,10 @@
 libft : Your very first own library.
 ===
-## Papar Information
+## Information
 - Title:  `libft`
 - Summary: `This project is about coding a C static library.It will contain a lot of general purpose functions your programs will rely upon.`
 - Authors:  `Abdelhay Bouramdane`
-- link: [AbdeBouramdane](https://github.com/Abdebouramdane)
+- link: [**abouramd**](https://github.com/abouramd)
 
 ## language
 - C
